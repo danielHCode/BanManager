@@ -1,0 +1,6 @@
+name: BanManager
+version: '${project.version}'
+main: me.daniel.banmanager.BanManager
+api-version: 1.18
+authors: [ Daneil ]
+description: This is a BanManager
